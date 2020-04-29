@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Basic Blogger</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_title">Enter a Post Title</string>
+    <string name="enter_description">Enter a Description</string>
+    <string name="add_post_btn">Submit Post</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="posted_by">Posted by:</string>
+</resources>
